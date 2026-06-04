@@ -1,5 +1,5 @@
 # first-demo
 this is my first repository
 <br>
-author - Ratnesh M alakar
+author - Ratnesh Malakar
 
